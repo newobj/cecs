@@ -1,0 +1,2 @@
+ptint main(int, char**) {
+}
